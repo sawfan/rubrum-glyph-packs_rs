@@ -1,0 +1,9 @@
+# Phases of the Moon.
+#
+# This pack is intentionally incomplete relative to bodies/signs/etc; it's meant as an example
+# of a small targeted pack that can be pulled in via glyph-set overrides.
+
+[bodies]
+# Canonical key for Body::Moon.
+moon = "Full_moon_symbol.svg"
+

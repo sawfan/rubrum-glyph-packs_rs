@@ -1,0 +1,12 @@
+[bodies]
+sun = "Sun_symbol_(Hull).svg"
+moon = "Moon_symbol_(Hull).svg"
+mercury = "Mercury_symbol_(Hull).svg"
+venus = "Venus_symbol_(Hull).svg"
+mars = "Mars_symbol_(Hull).svg"
+jupiter = "Jupiter_symbol_(Hull).svg"
+saturn = "Saturn_symbol_(Hull).svg"
+uranus = "Uranus_symbol_(Hull).svg"
+neptune = "Neptune_symbol_(Hull).svg"
+pluto = "Pluto_symbol_(Hull).svg"
+

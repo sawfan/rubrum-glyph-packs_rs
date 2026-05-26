@@ -1,0 +1,32 @@
+[bodies]
+sun = "sun.svg"
+moon = "moon.svg"
+mercury = "mercury.svg"
+venus = "venus.svg"
+mars = "mars.svg"
+jupiter = "jupiter.svg"
+# saturn glyph not present in this pack yet
+uranus = "uranus.svg"
+neptune = "neptune.svg"
+pluto = "pluto.svg"
+
+ceres = "ceres.svg"
+pallas = "pallas.svg"
+juno = "juno.svg"
+vesta = "vesta.svg"
+
+haumea = "haumea.svg"
+eris = "eris.svg"
+quaoar = "quaoar.svg"
+orcus = "orcus.svg"
+sedna = "sedna.svg"
+salacia = "salacia.svg"
+gonggong = "gonggong.svg"
+
+makemake = "makemake.svg"
+comet = "comet.svg"
+
+# Alternative/legacy variants.
+# moon_decrescent = "moon_decrescent.svg"
+# uranus_alt = "uranus_alt.svg"
+

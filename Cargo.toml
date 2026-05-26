@@ -1,0 +1,12 @@
+[package]
+name = "rubrum_glyph_packs"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+path = "src/lib.rs"
+
+[dependencies]
+rubrum = "*" 
+serde = { version = "1.0.219", features = ["derive"] }
+toml = "0.8"

@@ -1,0 +1,28 @@
+[bodies]
+sun = "Sun_symbol_(fixed_width).svg"
+moon = "Moon_crescent_symbol_(fixed_width).svg"
+mercury = "Mercury_symbol_(fixed_width).svg"
+venus = "Venus_symbol_(fixed_width).svg"
+mars = "Mars_symbol_(fixed_width).svg"
+jupiter = "Jupiter_symbol_(fixed_width).svg"
+saturn = "Saturn_symbol_(fixed_width).svg"
+uranus = "Uranus_symbol_(fixed_width).svg"
+neptune = "Neptune_symbol_(fixed_width).svg"
+pluto = "Pluto_symbol_(large_orb,_fixed_width).svg"
+chiron = "Chiron_symbol_(fixed_width).svg"
+
+[signs]
+aries = "constellations/Aries_symbol_(fixed_width).svg"
+taurus = "constellations/Taurus_symbol_(fixed_width).svg"
+gemini = "constellations/Gemini_symbol_(fixed_width).svg"
+cancer = "constellations/Cancer_symbol_(fixed_width).svg"
+leo = "constellations/Leo_symbol_(fixed_width).svg"
+virgo = "constellations/Virgo_symbol_(fixed_width).svg"
+libra = "constellations/Libra_symbol_(fixed_width).svg"
+scorpio = "constellations/Scorpius_symbol_(fixed_width).svg"
+sagittarius = "constellations/Sagittarius_symbol_(fixed_width).svg"
+capricorn = "constellations/Capricornus_symbol_(fixed_width).svg"
+aquarius = "constellations/Aquarius_symbol_(fixed_width).svg"
+pisces = "constellations/Pisces_symbol_(fixed_width).svg"
+
+

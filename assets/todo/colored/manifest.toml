@@ -1,0 +1,13 @@
+[bodies]
+sun = "Sun_symbol_(planetary_color).svg"
+moon = "Moon_symbol_(planetary_color).svg"
+mercury = "Mercury_symbol_(planetary_color).svg"
+venus = "Venus_symbol_(planetary_color).svg"
+mars = "Mars_symbol_(planetary_color).svg"
+jupiter = "Jupiter_symbol_(planetary_color).svg"
+saturn = "Saturn_symbol_(planetary_color).svg"
+uranus = "Uranus_symbol_(planetary_color).svg"
+neptune = "Neptune_symbol_(planetary_color).svg"
+pluto = "Pluto_symbol_(planetary_color).svg"
+chiron = "Chiron_symbol_(planetary_color).svg"
+

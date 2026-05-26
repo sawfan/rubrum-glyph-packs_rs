@@ -1,0 +1,70 @@
+[bodies]
+sun = "sun.svg"
+moon = "moon.svg"
+mercury = "mercury.svg"
+venus = "venus.svg"
+mars = "mars.svg"
+jupiter = "jupiter.svg"
+saturn = "saturn.svg"
+uranus = "uranus.svg"
+neptune = "neptune.svg"
+pluto = "pluto.svg"
+chiron = "chiron.svg"
+
+ceres = "ceres.svg"
+pallas = "pallas.svg"
+juno = "juno.svg"
+vesta = "vesta.svg"
+
+haumea = "haumea.svg"
+eris = "eris.svg"
+quaoar = "quaoar.svg"
+orcus = "orcus.svg"
+sedna = "sedna.svg"
+salacia = "salacia.svg"
+gonggong = "gonggong.svg"
+
+# Alternative/legacy variants that can be referenced via overrides if desired.
+# pluto_monogram = "pluto_monogram.svg"
+# moon_decrescent = "moon_decrescent.svg"
+# uranus_alt = "uranus_alt.svg"
+# white_moon = "white_moon.svg"
+# true_black_moon = "true_black_moon.svg"
+
+[signs]
+aries = "constellations/aries.svg"
+taurus = "constellations/taurus.svg"
+gemini = "constellations/gemini.svg"
+cancer = "constellations/cancer.svg"
+leo = "constellations/leo.svg"
+virgo = "constellations/virgo.svg"
+libra = "constellations/libra.svg"
+scorpio = "constellations/scorpio.svg"
+sagittarius = "constellations/sagittarius.svg"
+capricorn = "constellations/capricorn.svg"
+aquarius = "constellations/aquarius.svg"
+pisces = "constellations/pisces.svg"
+
+[angles]
+ascendant = "angles/ascendant.svg"
+descendant = "angles/descendant.svg"
+midheaven = "angles/midheaven.svg"
+imumcoeli = "angles/imumcoeli.svg"
+
+[chart_points]
+# Lunar nodes
+mean_node = "points/north_node.svg"
+true_node = "points/true_node.svg"
+
+# "Lilith" variants
+mean_apog = "points/south_node.svg"
+oscu_apog = "points/south_node.svg"
+intp_apog = "points/south_node.svg"
+intp_perg = "points/south_node.svg"
+
+# Nutation (no dedicated glyph yet; omit for now)
+# ecl_nut = "points/..."
+
+[lots]
+fortune = "points/part_of_fortune.svg"
+

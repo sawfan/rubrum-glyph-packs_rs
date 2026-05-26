@@ -1,0 +1,45 @@
+# Glyph set configuration for Cairo SVG glyph embedding.
+#
+# Terminology:
+# - pack: a directory containing SVG files and an optional manifest.toml.
+# - set: a named selection of a pack, optionally extending other sets and overriding individual keys.
+#
+# NOTE: keys are canonical, stable identifiers (e.g. "sun", "moon").
+
+[packs]
+black = "assets/black"
+black_bold = "assets/black-bold"
+white = "assets/white"
+white_bold = "assets/white-bold"
+outline = "assets/white-bold-black-outline"
+colored = "assets/colored"
+hull = "assets/jonathan-hull"
+
+[sets.black]
+pack = "black"
+
+[sets.black_bold]
+pack = "black_bold"
+
+[sets.white]
+pack = "white"
+
+[sets.white_bold]
+pack = "white_bold"
+
+[sets.outline]
+pack = "outline"
+
+[sets.colored]
+pack = "colored"
+
+[sets.hull]
+pack = "hull"
+
+# Example: override a single glyph while inheriting everything else.
+[sets.mixed]
+extends = ["black"]
+
+[sets.mixed.overrides.bodies]
+moon = { pack = "colored", key = "moon" }
+

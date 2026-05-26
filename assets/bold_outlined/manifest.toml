@@ -1,0 +1,55 @@
+[bodies]
+sun = "sun.svg"
+moon = "moon.svg"
+mercury = "mercury.svg"
+venus = "venus.svg"
+mars = "mars.svg"
+jupiter = "jupiter.svg"
+saturn = "saturn.svg"
+uranus = "uranus.svg"
+neptune = "neptune.svg"
+pluto = "pluto.svg"
+
+# Additional bodies present in this pack.
+ceres = "ceres.svg"
+pallas = "pallas.svg"
+juno = "juno.svg"
+vesta = "vesta.svg"
+
+haumea = "haumea.svg"
+eris = "eris.svg"
+quaoar = "quaoar.svg"
+orcus = "orcus.svg"
+sedna = "sedna.svg"
+salacia = "salacia.svg"
+gonggong = "gonggong.svg"
+
+makemake = "makemake.svg"
+comet = "comet.svg"
+
+# Asteroids present in this pack.
+hygiea = "hygiea.svg"
+ixion = "ixion.svg"
+varuna = "varuna.svg"
+chaos = "chaos.svg"
+
+# Alternative/legacy variants that can be referenced via overrides if desired.
+# pluto_monogram = "pluto_monogram.svg"
+# uranus_monogram = "uranus_monogram.svg"
+# moon_decrescent = "moon_decrescent.svg"
+
+[signs]
+aries = "constellations/aries.svg"
+taurus = "constellations/taurus.svg"
+gemini = "constellations/gemini.svg"
+cancer = "constellations/cancer.svg"
+leo = "constellations/leo.svg"
+virgo = "constellations/virgo.svg"
+libra = "constellations/libra.svg"
+scorpio = "constellations/scorpio.svg"
+sagittarius = "constellations/sagittarius.svg"
+capricorn = "constellations/capricorn.svg"
+aquarius = "constellations/aquarius.svg"
+pisces = "constellations/pisces.svg"
+
+

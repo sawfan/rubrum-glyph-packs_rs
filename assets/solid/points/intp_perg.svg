@@ -1,0 +1,8 @@
+<svg width="16" height="16" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#ffffff" fill-rule="evenodd" d="M5.05 1.20
+       A2.25 2.55 0 1 0 5.05 6.00
+       A1.40 1.95 0 1 1 5.05 1.20 Z"></path>
+  <rect x="4.75" y="5.95" width="0.6" height="2.05" fill="#ffffff"></rect>
+  <path d="M5.05 10.15 L3.95 8.20 H6.15 Z" fill="#ffffff"></path>
+  <text x="7.35" y="5.10" font-family="Andika, Arial, sans-serif" font-size="3.0px" fill="#ffffff">I</text>
+</svg>
